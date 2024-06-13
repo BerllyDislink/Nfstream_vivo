@@ -1,0 +1,7 @@
+src_ip,dst_ip,src_mac,dst_mac,src_port,dst_port,bidirectional_packets,bidirectional_bytes,application_name,application_category_name
+192.168.1.21,13.107.246.40,c0:e4:34:67:c0:b9,2c:96:82:a1:63:58,57102,443,10,660,TLS,Web
+0.0.0.0,224.0.0.1,2c:96:82:a1:63:58,01:00:5e:00:00:01,0,0,1,50,IGMP,Network
+fe80::2e96:82ff:fea1:6358,ff02::1,2c:96:82:a1:63:58,33:33:00:00:00:01,0,0,1,90,ICMPV6,Network
+fe80::d06b:fcff:fe5c:3308,ff02::16,d2:6b:fc:5c:33:08,33:33:00:00:00:16,0,0,1,90,ICMPV6,Network
+192.168.1.21,52.182.141.63,c0:e4:34:67:c0:b9,2c:96:82:a1:63:58,47226,443,2,132,TLS,Web
+192.168.1.21,224.0.0.251,c0:e4:34:67:c0:b9,01:00:5e:00:00:fb,0,0,1,46,IGMP,Network
